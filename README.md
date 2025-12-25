@@ -42,7 +42,7 @@ Me interesa especialmente el desarrollo de sistemas de gestión, aplicaciones Sa
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,java,dart,flutter,py,sqlite,git,github,materialui,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,java,dart,flutter,py,sqlite,git,github,materialui,postman,vscode" />
   </a>
 </p>
 <br>
