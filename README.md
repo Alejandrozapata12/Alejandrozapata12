@@ -2,7 +2,9 @@
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
-<h1 align="center">Hola 👋  soy Alejandro Obando Zapata ✨ </h1> 
+<h1 align="center"><a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
+  </a>Hola 👋  soy Alejandro Obando Zapata ✨ </h1> 
 
 
 <!--<p align="left">
