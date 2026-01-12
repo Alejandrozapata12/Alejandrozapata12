@@ -56,8 +56,8 @@ Me interesa especialmente el desarrollo de sistemas de gestión, aplicaciones Sa
   <td width="25%" align="center">
     <p align="center">
       <!--Img principal-->
-     <a href="#" title="Go to Source">
-        <img align="center" width=100% src="#"   alt="img" /></a>
+     <a href="https://github.com/Alejandrozapata12/langindPageInventrack" title="Go to Source">
+        <img align="center" width=100% src="#"   alt="lading_inventrack" /></a>
       </p>
     <!--Icono de github-->
     <p align="center">
@@ -68,8 +68,8 @@ Me interesa especialmente el desarrollo de sistemas de gestión, aplicaciones Sa
   <td width="25%" align="center">
     <p align="center">
       <!--Img principal-->
-     <a href="#" title="Go to Source">
-        <img align="center" width=100% src="#"   alt="img" /></a>
+     <a href="https://github.com/Alejandrozapata12/inventrack_system" title="Go to Source">
+        <img align="center" width=100% src="#"   alt="inventrack_system" /></a>
       </p>
     <!--Icono de github-->
     <p align="center">
@@ -81,29 +81,14 @@ Me interesa especialmente el desarrollo de sistemas de gestión, aplicaciones Sa
   <td width="25%" align="center">
     <p align="center">
       <!--Img principal-->
-     <a href="#" title="Go to Source">
-        <img align="center" width=100% src="#"   alt="img" /></a>
+     <a href="https://github.com/Alejandrozapata12/portfolio" title="Go to Source">
+        <img align="center" width=100% src="#"   alt="portfolio" /></a>
       </p>
     <!--Icono de github-->
     <p align="center">
       <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>
-
-<!--Item_tabla-->
-  <td width="25%" align="center">
-    <p align="center">
-      <!--Img principal-->
-     <a href="#" title="Go to Source">
-        <img align="center" width=100% src="#"   alt="img" /></a>
-      </p>
-    <!--Icono de github-->
-    <p align="center">
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-
-
 
   
 </tr>
@@ -118,27 +103,4 @@ Me interesa especialmente el desarrollo de sistemas de gestión, aplicaciones Sa
 
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="left">
-<tr border="none">
-<td width="60%" align="center">
 
-<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
-  <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="40%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-
-
-</p>        
-<!--- stats (end) -->
