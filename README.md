@@ -56,24 +56,25 @@ Me interesa especialmente el desarrollo de sistemas de gestión, aplicaciones Sa
   <td width="25%" align="center">
     <p align="center">
       <!--Img principal-->
-     <a href="https://github.com/Alejandrozapata12/langindPageInventrack" title="Go to Source">
+     <a href="https://alejandrozapata12.github.io/langindPageInventrack/" title="Go to Source">
         <img align="center" width=100% src="./Captura de pantalla_12-1-2026_12477_alejandrozapata12.github.io.jpeg"   alt="lading_inventrack" /></a>
       </p>
     <!--Icono de github-->
     <p align="center">
-      <a href="[https://github.com/unsimpledev/ProyectoSMSGatewa](https://alejandrozapata12.github.io/langindPageInventrack/)y" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="alejandrozapata12" /></a>
+      <a href="https://github.com/Alejandrozapata12/langindPageInventrack" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="alejandrozapata12" /></a>
     </p>       
 </td>
 <!--Item_tabla-->
   <td width="25%" align="center">
     <p align="center">
       <!--Img principal-->
-     <a href="https://github.com/Alejandrozapata12/inventrack_system" title="Go to Source">
+     <a href="https://alejandrozapata12.github.io/inventrack_system/
+" title="Go to Source">
         <img align="center" width=100% src="Captura de pantalla_12-1-2026_125050_alejandrozapata12.github.io.jpeg"   alt="inventrack_system" /></a>
       </p>
     <!--Icono de github-->
     <p align="center">
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+      <a href="https://github.com/Alejandrozapata12/inventrack_system" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>
 
@@ -81,12 +82,12 @@ Me interesa especialmente el desarrollo de sistemas de gestión, aplicaciones Sa
   <td width="25%" align="center">
     <p align="center">
       <!--Img principal-->
-     <a href="https://github.com/Alejandrozapata12/portfolio" title="Go to Source">
+     <a href="https://alejandrozapt-portfolio.vercel.app/" title="Go to Source">
         <img align="center" width=100% src="Captura de pantalla_12-1-2026_125347_alejandrozapt-portfolio.vercel.app.jpeg"   alt="portfolio" /></a>
       </p>
     <!--Icono de github-->
     <p align="center">
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+      <a href="https://github.com/Alejandrozapata12/portfolio" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>
 
