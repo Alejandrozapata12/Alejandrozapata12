@@ -57,7 +57,7 @@ Me interesa especialmente el desarrollo de sistemas de gestión, aplicaciones Sa
     <p align="center">
       <!--Img principal-->
      <a href="https://github.com/Alejandrozapata12/langindPageInventrack" title="Go to Source">
-        <img align="center" width=100% src="#"   alt="lading_inventrack" /></a>
+        <img align="center" width=100% src="./Captura de pantalla_12-1-2026_12477_alejandrozapata12.github.io.jpeg"   alt="lading_inventrack" /></a>
       </p>
     <!--Icono de github-->
     <p align="center">
