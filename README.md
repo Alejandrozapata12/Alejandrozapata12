@@ -91,6 +91,19 @@ Me interesa especialmente el desarrollo de sistemas de gestión, aplicaciones Sa
     </p>       
 </td>
 
+<!--Item_tabla-->
+  <td width="25%" align="center">
+    <p align="center">
+      <!--Img principal-->
+     <a href="#" title="Go to Source" target="blank">
+        <img align="center" width=100% src="Login_plannerTime.jpeg"   alt="medicalPortalPlannerTime" /></a>
+      </p>
+    <!--Icono de github-->
+    <p align="center">
+      <a href="https://github.com/Alejandrozapata12/medicalPortalPlannerTime" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="alejandrodev" /></a>
+    </p>       
+</td>
+
   
 </tr>
 </table>
