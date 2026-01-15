@@ -95,7 +95,7 @@ Me interesa especialmente el desarrollo de sistemas de gestión, aplicaciones Sa
   <td width="25%" align="center">
     <p align="center">
       <!--Img principal-->
-     <a href="#" title="Go to Source" target="blank">
+     <a href="https://medical-portal-planner-time.vercel.app/index.html" title="Go to Source" target="blank">
         <img align="center" width=100% src="Login_plannerTime.jpeg"   alt="medicalPortalPlannerTime" /></a>
       </p>
     <!--Icono de github-->
