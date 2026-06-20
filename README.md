@@ -46,7 +46,7 @@ Me interesa especialmente el desarrollo de sistemas de gestión, aplicaciones Sa
   </a>
 </p>
 <br>
-<!-------------------------->
+<!------------Proyectos-------------->
 <div id="proyectos">
 <h2 >Algunos proyectos👨🏻‍💻</h2>
 
@@ -57,7 +57,7 @@ Me interesa especialmente el desarrollo de sistemas de gestión, aplicaciones Sa
     <p align="center">
       <!--Img principal-->
      <a href="https://alejandrozapata12.github.io/langindPageInventrack/" title="Go to Source" target="blank">
-        <img align="center" width=100% src="./Langing_inventrack.png"   alt="lading_inventrack" /></a>
+        <img align="center" width=100% src="./Landing_inventrack.png"   alt="lading_inventrack" /></a>
       </p>
     <!--Icono de github-->
     <p align="center">
@@ -103,8 +103,6 @@ Me interesa especialmente el desarrollo de sistemas de gestión, aplicaciones Sa
       <a href="https://github.com/Alejandrozapata12/medicalPortalPlannerTime" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="alejandrodev" /></a>
     </p>       
 </td>
-
-  
 </tr>
 </table>
   </div>
