@@ -6,7 +6,7 @@
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>Hola 👋  soy Alejandro Obando Zapata ✨ </h1> 
 
-
+ 
 <!--<p align="left">
   <a href="https://www.youtube.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
 <a href="https://www.tiktok.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>-->
@@ -57,7 +57,7 @@ Me interesa especialmente el desarrollo de sistemas de gestión, aplicaciones Sa
     <p align="center">
       <!--Img principal-->
      <a href="https://alejandrozapata12.github.io/langindPageInventrack/" title="Go to Source" target="blank">
-        <img align="center" width=100% src="./Captura de pantalla_12-1-2026_12477_alejandrozapata12.github.io.jpeg"   alt="lading_inventrack" /></a>
+        <img align="center" width=100% src="Langing_inventrack.png"   alt="lading_inventrack" /></a>
       </p>
     <!--Icono de github-->
     <p align="center">
@@ -70,7 +70,7 @@ Me interesa especialmente el desarrollo de sistemas de gestión, aplicaciones Sa
       <!--Img principal-->
      <a href="https://alejandrozapata12.github.io/inventrack_system/
 " title="Go to Source" target="blank">
-        <img align="center" width=100% src="Captura de pantalla_12-1-2026_125050_alejandrozapata12.github.io.jpeg"   alt="inventrack_system" /></a>
+        <img align="center" width=100% src="Inventrack_system.png"   alt="inventrack_system" /></a>
       </p>
     <!--Icono de github-->
     <p align="center">
@@ -82,8 +82,8 @@ Me interesa especialmente el desarrollo de sistemas de gestión, aplicaciones Sa
   <td width="25%" align="center">
     <p align="center">
       <!--Img principal-->
-     <a href="https://alejandrozapt-portfolio.vercel.app/" title="Go to Source" target="blank">
-        <img align="center" width=100% src="Captura de pantalla_12-1-2026_125347_alejandrozapt-portfolio.vercel.app.jpeg"   alt="portfolio" /></a>
+     <a href="https://alejozapatadev.vercel.app/" title="Go to Source" target="blank">
+        <img align="center" width=100% src="Portfolio.png"   alt="Alejozapatadev" /></a>
       </p>
     <!--Icono de github-->
     <p align="center">
