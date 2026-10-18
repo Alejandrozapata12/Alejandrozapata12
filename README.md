@@ -1,21 +1,19 @@
 # Alejandro Zapata
 ### Full-Stack Web Developer | Business Applications | Software Engineering
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0F172A,100:2563EB&section=header" alt="Profile banner" width="100%" />
-</p>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0F172A,100:2563EB&section=header" alt="Profile banner" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/norbey-alejandro-obando-zapata-3231a0185/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/norbey-alejandro-obando-zapata-3231a0185?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:alejandrozapt152@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Alejandrozapata12">
-    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
+</div>
 
 ---
 
@@ -27,12 +25,12 @@ Me interesa el desarrollo full-stack, especialmente las aplicaciones empresarial
 
 **Áreas de interés**
 - Desarrollo de aplicaciones web full-stack.
-- Diseño de interfaces y experiencia de usuario.
+- Arquitectura y organización de aplicaciones.
 - Integración de APIs y persistencia de datos.
-- Sistemas de gestión y productos digitales.
+- Sistemas de gestión y productos SaaS.
 - Calidad del software, mantenibilidad y buenas prácticas.
 
-Mi objetivo es construir soluciones que no solo funcionen, sino que también sean comprensibles, mantenibles y preparadas para evolucionar.
+Mi objetivo es construir soluciones que no solo funcionen, sino que sean comprensibles, mantenibles y preparadas para evolucionar.
 
 ## 🇬🇧 About me
 
@@ -42,9 +40,9 @@ I'm interested in full-stack development, particularly business applications, ma
 
 **Areas of interest**
 - Full-stack web application development.
-- User interface development and user experience.
+- Application architecture and code organization.
 - API integration and data persistence.
-- Business software and digital products.
+- Business software and SaaS products.
 - Software quality, maintainability, and engineering best practices.
 
 My goal is to build solutions that are not only functional but also understandable, maintainable, and designed to evolve.
@@ -53,128 +51,152 @@ My goal is to build solutions that are not only functional but also understandab
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### Frontend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend technologies" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,ts,sass" alt="HTML, CSS, JavaScript, React, Tailwind CSS, TypeScript and Sass" />
 </p>
 
-### Backend & Programming
+### Backend Development & Programming
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,py,java" alt="Backend and programming technologies" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py,java,prisma" alt="Node.js, Express, Python, Java and Prisma" />
 </p>
 
 ### Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Database technologies" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="PostgreSQL, MySQL and MongoDB" />
 </p>
 
-### Tools & Development Workflow
+### Development Tools & Workflow
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Development tools" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postman,git,github,vscode" alt="Postman, Git, GitHub and Visual Studio Code" />
+  <img src="https://img.shields.io/badge/SQL-Query%20Language-4479A1?style=flat-square&logo=databricks&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Terminal-Command%20Line-24292F?style=flat-square&logo=windowsterminal&logoColor=white" alt="Terminal" />
 </p>
 
-> **Note:** This stack represents technologies associated with my development work and learning. The depth of experience varies by technology. Please refer to individual repositories for implementation details.
+### AI-Assisted Development
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude-AI%20Assistant-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/ChatGPT-AI%20Assistant-10A37F?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Qwen%20AI-AI%20Assistant-615EFF?style=flat-square" alt="Qwen AI" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-Selected projects demonstrating my interest in web applications, business software, and user-centered solutions.
-
-### 1. Inventrack — Business Management Application
+### 01. Inventrack — Business Management Application
 
 A project focused on business management and digital workflows.
 
-- **Focus:** Business application development.
-- **Demo:** [View project](https://alejandrozapata12.github.io/inventrack_system/)
-- **Repository:** [View source code](https://github.com/Alejandrozapata12/inventrack_system)
+- **Demo:** [View application](https://alejandrozapata12.github.io/inventrack_system/)
+- **Source code:** [GitHub repository](https://github.com/Alejandrozapata12/inventrack_system)
 
-**Technical aspects to document**
-- Application architecture and component organization.
+**Technical documentation to explore**
+- Application structure and component organization.
 - Data model and persistence strategy.
 - API contracts, validation, and error handling, where implemented.
 - Authentication and authorization, where implemented.
 - Deployment configuration and known limitations.
 
-### 2. Inventrack — Landing Page
+### 02. Inventrack — Landing Page
 
-A web landing page associated with the Inventrack project.
+A landing page associated with the Inventrack project.
 
-- **Focus:** Product presentation and frontend development.
 - **Demo:** [View landing page](https://alejandrozapata12.github.io/langindPageInventrack/)
-- **Repository:** [View source code](https://github.com/Alejandrozapata12/langindPageInventrack)
+- **Source code:** [GitHub repository](https://github.com/Alejandrozapata12/langindPageInventrack)
 
-**Technical aspects to document**
-- Responsive layout and component structure.
-- Accessibility and semantic HTML.
-- Performance and asset optimization.
-- Product messaging and user navigation.
+**Technical focus**
+- Responsive layout and semantic HTML.
+- Frontend organization and reusable components, where applicable.
+- Accessibility and asset optimization.
+- Product presentation and user navigation.
 
-### 3. Alejandro Dev — Personal Portfolio
+### 03. Alejandro Dev — Personal Portfolio
 
 My personal portfolio for presenting development projects and professional interests.
 
-- **Focus:** Personal branding and web development.
-- **Demo:** [Visit portfolio](https://alejozapatadev.vercel.app/)
-- **Repository:** [View source code](https://github.com/Alejandrozapata12/portfolio)
+- **Live website:** [Visit portfolio](https://alejozapatadev.vercel.app/)
+- **Source code:** [GitHub repository](https://github.com/Alejandrozapata12/portfolio)
 
-**Technical aspects to document**
-- Frontend architecture and reusable components.
+**Technical focus**
+- Frontend architecture and component organization.
 - Responsive design and accessibility.
 - Animations and interaction patterns, where implemented.
-- Deployment workflow and performance considerations.
+- Deployment and performance considerations.
 
-### 4. Medical Portal PlannerTime
+### 04. Medical Portal PlannerTime
 
 A web project focused on a medical planning portal interface.
 
-- **Focus:** Web interface development and user workflows.
 - **Demo:** [View application](https://medical-portal-planner-time.vercel.app/index.html)
-- **Repository:** [View source code](https://github.com/Alejandrozapata12/medicalPortalPlannerTime)
+- **Source code:** [GitHub repository](https://github.com/Alejandrozapata12/medicalPortalPlannerTime)
 
-**Technical aspects to document**
+**Technical focus**
 - Navigation and user interaction flows.
 - Form validation and state handling, where implemented.
-- Data management and integration details, where applicable.
+- Data management and integrations, where applicable.
 - Accessibility and responsive behavior.
 
 ---
 
 ## 🧩 Engineering Principles
 
-The following are the practices I aim to apply and strengthen across my projects:
+The following practices guide my learning and development work:
 
 - **Readable code:** meaningful naming, clear responsibilities, and consistent conventions.
-- **Separation of concerns:** keeping presentation, application logic, and data access appropriately organized.
+- **Separation of concerns:** organizing presentation, application logic, and data access appropriately.
 - **Input validation:** validating user input and handling expected failures.
 - **Security awareness:** protecting sensitive configuration and applying appropriate access controls.
-- **Testing:** verifying important behavior with suitable automated or manual tests.
+- **Testing:** verifying important behavior through suitable tests.
 - **Documentation:** explaining setup, architecture, configuration, and limitations.
-- **Continuous improvement:** refining implementation based on testing, feedback, and code review.
+- **Continuous improvement:** refining implementations through debugging, feedback, and code review.
 
-These principles are goals for my engineering practice; their implementation should be evaluated in each project's source code and documentation.
+These principles should be evaluated against the actual implementation of each project.
 
-## 📈 Current Focus
+## 📚 Current Focus
 
 - Strengthening frontend and full-stack development fundamentals.
 - Improving application architecture and database design.
-- Learning and applying software testing and debugging practices.
-- Building projects with clearer documentation and reproducible setup.
+- Practicing testing, debugging, and error handling.
+- Building projects with clear documentation and reproducible setup.
 - Improving deployment workflows and application reliability.
+- Using AI-assisted development tools responsibly and reviewing generated code.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alejandrozapata12&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub statistics" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandrozapata12&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used programming languages" />
+</div>
+
+<div align="center">
+  <img width="95%" src="https://streak-stats.demolab.com?user=Alejandrozapata12&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alejandrozapata12&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
+</div>
+
+> **Statistics note:** These cards rely on third-party services. Results may be cached or temporarily unavailable. Public repository activity is not a complete measure of engineering ability. Private contribution visibility and commit totals depend on the service's configuration and access.
+
+---
 
 ## 🤝 Let's Connect
 
 I'm interested in connecting with developers, engineers, and teams working on web applications, business software, and practical digital products.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/norbey-alejandro-obando-zapata-3231a0185/">
+  <a href="https://www.linkedin.com/in/norbey-alejandro-obando-zapata-3231a0185?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
-  <a href="mailto:norbeyalejandroo@gmail.com">
+  <a href="mailto:alejandrozapt152@gmail.com">
     <img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
   </a>
 </p>
