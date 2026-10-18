@@ -1,118 +1,184 @@
-<div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
-</div>
+# Alejandro Zapata
+### Full-Stack Web Developer | Business Applications | Software Engineering
 
-<h1 align="center"><a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
-  </a>Hola 👋  soy Alejandro Zapata ✨ </h1> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0F172A,100:2563EB&section=header" alt="Profile banner" width="100%" />
+</p>
 
- 
-<!--<p align="left">
-  <a href="https://www.youtube.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-<a href="https://www.tiktok.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>-->
-<a href="https://www.linkedin.com/in/norbey-alejandro-obando-zapata-3231a0185?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Norbey Alejandro Obando Zapata"/></a>
-<!--<a href="https://fb.com/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>-->
-<a href = "alejandrozapt152@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Norbey Alejandro Obando Zapata"  /></a>
-  </p>
-<br>
-<h2>Sobre mi 😃</h2>
-<!--Intro start-->
-
-<p align="left">
-🚀 Desarrollador Full Stack | Ingeniero de Software | Apasionado por crear soluciones escalables
-
-Soy desarrollador Full Stack con enfoque en la construcción de aplicaciones web modernas, funcionales y orientadas a negocio. Me especializo en transformar ideas en productos reales, cuidando tanto la arquitectura como la experiencia del usuario.
-
-Me interesa especialmente el desarrollo de sistemas de gestión, aplicaciones SaaS, portales empresariales y productos digitales listos para comercializar.
-
-🧠 Sobre mí
-
-🧩 Enfoque en lógica, escalabilidad y buenas prácticas
-
-📈 Interesado en emprendimiento tecnológico y productos vendibles
-
-🔍 Mentalidad analítica (QA + desarrollo)
-
-📚 Aprendizaje constante y enfoque profesional
-<!--Intro end-->
-  </p>
-<br>
-
-<h2 >Tecnologías y herramientas👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,java,dart,flutter,py,sqlite,git,github,materialui,postman,vscode" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/norbey-alejandro-obando-zapata-3231a0185/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:alejandrozapt152@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Alejandrozapata12">
+    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-<br>
-<!------------Proyectos-------------->
-<div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
 
-<table align="left" >
-<tr border="none">
-  <!--Item_tabla-->
-  <td width="25%" align="center">
-    <p align="center">
-      <!--Img principal-->
-     <a href="https://alejandrozapata12.github.io/langindPageInventrack/" title="Go to Source" target="blank">
-        <img align="center" width=100% src="./Landing_inventrack.png"   alt="lading_inventrack" /></a>
-      </p>
-    <!--Icono de github-->
-    <p align="center">
-      <a href="https://github.com/Alejandrozapata12/langindPageInventrack" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="alejandrodev" /></a>
-    </p>       
-</td>
-<!--Item_tabla-->
-  <td width="25%" align="center">
-    <p align="center">
-      <!--Img principal-->
-     <a href="https://alejandrozapata12.github.io/inventrack_system/
-" title="Go to Source" target="blank">
-        <img align="center" width=100% src="Inventrack_system.png"   alt="inventrack_system" /></a>
-      </p>
-    <!--Icono de github-->
-    <p align="center">
-      <a href="https://github.com/Alejandrozapata12/inventrack_system" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="alejandrodev" /></a>
-    </p>       
-</td>
+---
 
-<!--Item_tabla-->
-  <td width="25%" align="center">
-    <p align="center">
-      <!--Img principal-->
-     <a href="https://alejozapatadev.vercel.app/" title="Go to Source" target="blank">
-        <img align="center" width=100% src="Portfolio.png"   alt="Alejozapatadev" /></a>
-      </p>
-    <!--Icono de github-->
-    <p align="center">
-      <a href="https://github.com/Alejandrozapata12/portfolio" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="alejandrodev" /></a>
-    </p>       
-</td>
+## 🇪🇸 Sobre mí
 
-<!--Item_tabla-->
-  <td width="25%" align="center">
-    <p align="center">
-      <!--Img principal-->
-     <a href="https://medical-portal-planner-time.vercel.app/index.html" title="Go to Source" target="blank">
-        <img align="center" width=100% src="Login_plannerTime.jpeg"   alt="medicalPortalPlannerTime" /></a>
-      </p>
-    <!--Icono de github-->
-    <p align="center">
-      <a href="https://github.com/Alejandrozapata12/medicalPortalPlannerTime" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="alejandrodev" /></a>
-    </p>       
-</td>
-</tr>
-</table>
-  </div>
-<br>
-<br><br>
-<br>
-<br><br><br>
-<br><br>
+Soy desarrollador web enfocado en construir aplicaciones orientadas a negocio, interfaces funcionales y productos digitales que respondan a necesidades concretas.
 
+Me interesa el desarrollo full-stack, especialmente las aplicaciones empresariales, los sistemas de gestión y los productos SaaS. Busco fortalecer mis fundamentos de ingeniería de software mediante proyectos prácticos, documentación técnica y mejora continua.
 
-<h2>GitHub :octocat:</h2>
-<!--- stats & Trophy (start) -->
+**Áreas de interés**
+- Desarrollo de aplicaciones web full-stack.
+- Diseño de interfaces y experiencia de usuario.
+- Integración de APIs y persistencia de datos.
+- Sistemas de gestión y productos digitales.
+- Calidad del software, mantenibilidad y buenas prácticas.
 
+Mi objetivo es construir soluciones que no solo funcionen, sino que también sean comprensibles, mantenibles y preparadas para evolucionar.
+
+## 🇬🇧 About me
+
+I'm a web developer focused on building business-oriented applications, functional user interfaces, and digital products that address practical needs.
+
+I'm interested in full-stack development, particularly business applications, management systems, and SaaS products. I'm continuously strengthening my software engineering fundamentals through hands-on projects, technical documentation, and iterative improvement.
+
+**Areas of interest**
+- Full-stack web application development.
+- User interface development and user experience.
+- API integration and data persistence.
+- Business software and digital products.
+- Software quality, maintainability, and engineering best practices.
+
+My goal is to build solutions that are not only functional but also understandable, maintainable, and designed to evolve.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend technologies" />
+</p>
+
+### Backend & Programming
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py,java" alt="Backend and programming technologies" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Database technologies" />
+</p>
+
+### Tools & Development Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Development tools" />
+</p>
+
+> **Note:** This stack represents technologies associated with my development work and learning. The depth of experience varies by technology. Please refer to individual repositories for implementation details.
+
+---
+
+## 🚀 Featured Projects
+
+Selected projects demonstrating my interest in web applications, business software, and user-centered solutions.
+
+### 1. Inventrack — Business Management Application
+
+A project focused on business management and digital workflows.
+
+- **Focus:** Business application development.
+- **Demo:** [View project](https://alejandrozapata12.github.io/inventrack_system/)
+- **Repository:** [View source code](https://github.com/Alejandrozapata12/inventrack_system)
+
+**Technical aspects to document**
+- Application architecture and component organization.
+- Data model and persistence strategy.
+- API contracts, validation, and error handling, where implemented.
+- Authentication and authorization, where implemented.
+- Deployment configuration and known limitations.
+
+### 2. Inventrack — Landing Page
+
+A web landing page associated with the Inventrack project.
+
+- **Focus:** Product presentation and frontend development.
+- **Demo:** [View landing page](https://alejandrozapata12.github.io/langindPageInventrack/)
+- **Repository:** [View source code](https://github.com/Alejandrozapata12/langindPageInventrack)
+
+**Technical aspects to document**
+- Responsive layout and component structure.
+- Accessibility and semantic HTML.
+- Performance and asset optimization.
+- Product messaging and user navigation.
+
+### 3. Alejandro Dev — Personal Portfolio
+
+My personal portfolio for presenting development projects and professional interests.
+
+- **Focus:** Personal branding and web development.
+- **Demo:** [Visit portfolio](https://alejozapatadev.vercel.app/)
+- **Repository:** [View source code](https://github.com/Alejandrozapata12/portfolio)
+
+**Technical aspects to document**
+- Frontend architecture and reusable components.
+- Responsive design and accessibility.
+- Animations and interaction patterns, where implemented.
+- Deployment workflow and performance considerations.
+
+### 4. Medical Portal PlannerTime
+
+A web project focused on a medical planning portal interface.
+
+- **Focus:** Web interface development and user workflows.
+- **Demo:** [View application](https://medical-portal-planner-time.vercel.app/index.html)
+- **Repository:** [View source code](https://github.com/Alejandrozapata12/medicalPortalPlannerTime)
+
+**Technical aspects to document**
+- Navigation and user interaction flows.
+- Form validation and state handling, where implemented.
+- Data management and integration details, where applicable.
+- Accessibility and responsive behavior.
+
+---
+
+## 🧩 Engineering Principles
+
+The following are the practices I aim to apply and strengthen across my projects:
+
+- **Readable code:** meaningful naming, clear responsibilities, and consistent conventions.
+- **Separation of concerns:** keeping presentation, application logic, and data access appropriately organized.
+- **Input validation:** validating user input and handling expected failures.
+- **Security awareness:** protecting sensitive configuration and applying appropriate access controls.
+- **Testing:** verifying important behavior with suitable automated or manual tests.
+- **Documentation:** explaining setup, architecture, configuration, and limitations.
+- **Continuous improvement:** refining implementation based on testing, feedback, and code review.
+
+These principles are goals for my engineering practice; their implementation should be evaluated in each project's source code and documentation.
+
+## 📈 Current Focus
+
+- Strengthening frontend and full-stack development fundamentals.
+- Improving application architecture and database design.
+- Learning and applying software testing and debugging practices.
+- Building projects with clearer documentation and reproducible setup.
+- Improving deployment workflows and application reliability.
+
+## 🤝 Let's Connect
+
+I'm interested in connecting with developers, engineers, and teams working on web applications, business software, and practical digital products.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/norbey-alejandro-obando-zapata-3231a0185/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:norbeyalejandroo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Building, learning, and improving one project at a time.</sub>
+</p>
