@@ -4,7 +4,7 @@
 
 <h1 align="center"><a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
-  </a>Hola 👋  soy Alejandro Obando Zapata ✨ </h1> 
+  </a>Hola 👋  soy Alejandro Zapata ✨ </h1> 
 
  
 <!--<p align="left">
